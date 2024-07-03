@@ -1,7 +1,7 @@
 
 # Exercise 3 
 
-### Détails de la commande `git pull`
+### Descriptioon du resultat de pull https://github.com/LeMeteore/animated-carnival.git de la commande 
 
 - **remote: Enumerating objects: 23, done.**
   - Git commence à énumérer les objets disponibles dans le dépôt distant.
@@ -29,7 +29,7 @@
 
 
 
-### solutions pour revenir a la normale 
+### Décriptions de  ce qui peut être fait pour revenir à une situation normale.e 
 
 - ### Effectons un fetch
 
